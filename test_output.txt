@@ -1,0 +1,9 @@
+﻿
+   PASS  Tests\Feature\DashboardTest
+  Ô£ô guests areÔÇª 0.49s  
+  Ô£ô authenticaÔÇª 0.10s  
+  Ô£ô dashboardÔÇª  0.07s  
+
+  Tests:    3 passed (28 assertions)
+  Duration: 0.90s
+
